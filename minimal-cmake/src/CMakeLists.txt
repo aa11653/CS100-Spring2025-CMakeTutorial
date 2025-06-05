@@ -1,0 +1,2 @@
+add_subdirectory(LorenzField)
+add_subdirectory(TraceQuery)
